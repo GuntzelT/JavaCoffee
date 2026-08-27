@@ -1,2 +1,8 @@
 # JavaCoffee
+## Como montar um café:
+
+1 - Pegamos o filtro e colocamos no funil;
+2 - Colocamos o pó no filtro;
+3 - Esperamos passar  a água;
+
 
